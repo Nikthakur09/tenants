@@ -12,14 +12,10 @@
     "tenantUrl": "https://tenant-a.example.com",
     "thinkHumbleUrl": "https://thinkhumble.com",
     "useThinkHumbleUrl": true,
-    "tenantWhiteLabelData": {
-      "tenantId": "white_label_tenant_id_1",
-      "blobData": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAF1JREFUWAnFk7"
-    }
   },{
     "tenantId": "2",
     "tenantName": "Tenant b",
-    "tenantDisplayName": "Tenant A Display",
+    "tenantDisplayName": "Tenant B Display",
     "defaultLocale": "en_US",
     "tooltiptext": "x for Tenant A",
     "location": "di",
@@ -29,9 +25,5 @@
     "tenantUrl": "https://tenant-a.example.com",
     "thinkHumbleUrl": "https://thinkhumble.com",
     "useThinkHumbleUrl": true,
-    "tenantWhiteLabelData": {
-      "tenantId": "white_label_tenant_id_1",
-      "blobData": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAF1JREFUWAnFk7"
-    }
   }
 ]
