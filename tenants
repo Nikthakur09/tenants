@@ -1,29 +1,30 @@
 [
-  {
-    "tenantId": "1",
-    "tenantName": "Tenant A",
-    "tenantDisplayName": "Tenant A Display",
-    "defaultLocale": "en_US",
-    "tooltiptext": "Tooltip for Tenant A",
-    "location": "Earth",
-    "tenantsmallLogo": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
-    "tenantLargeLogo":"iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
-    "tenantKey": "tenant_a_key",
-    "tenantUrl": "https://tenant-a.example.com",
-    "thinkHumbleUrl": "https://thinkhumble.com",
-    "useThinkHumbleUrl": true,
-  },{
-    "tenantId": "2",
-    "tenantName": "Tenant b",
-    "tenantDisplayName": "Tenant B Display",
-    "defaultLocale": "en_US",
-    "tooltiptext": "x for Tenant A",
-    "location": "di",
-    "tenantsmallLogo": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
-    "tenantLargeLogo":"iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
-    "tenantKey": "tenant_a_key",
-    "tenantUrl": "https://tenant-a.example.com",
-    "thinkHumbleUrl": "https://thinkhumble.com",
-    "useThinkHumbleUrl": true,
-  }
+    {
+        "tenantId": "1",
+        "tenantName": "Tenant A",
+        "tenantDisplayName": "Tenant A Display",
+        "defaultLocale": "en_US",
+        "tooltiptext": "Tooltip for Tenant A",
+        "location": "Earth",
+        "tenantsmallLogo": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
+        "tenantLargeLogo": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
+        "tenantKey": "tenant_a_key",
+        "tenantUrl": "https://tenant-a.example.com",
+        "thinkHumbleUrl": "https://thinkhumble.com",
+        "useThinkHumbleUrl": true
+    },
+    {
+        "tenantId": "2",
+        "tenantName": "Tenant b",
+        "tenantDisplayName": "Tenant B Display",
+        "defaultLocale": "en_US",
+        "tooltiptext": "x for Tenant A",
+        "location": "di",
+        "tenantsmallLogo": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
+        "tenantLargeLogo": "iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA0lBMVEXBHDsMDQ0gICAsKyyUIzOYIjSbITSeIDWiIjaZITSVIjOnIzegIjUAAABJSUqdITR8e3sQEREADAtMTE1YWFjGGzwaGxslJSZzcnJmZWW6HTobIB8fLCsWFxcdICBdXFwlKywdLCsLIB6zHjiLIjEUIB9SKC8lICFHFh1fGiQ3Ki1CKS4vICJ",
+        "tenantKey": "tenant_a_key",
+        "tenantUrl": "https://tenant-a.example.com",
+        "thinkHumbleUrl": "https://thinkhumble.com",
+        "useThinkHumbleUrl": true
+    }
 ]
